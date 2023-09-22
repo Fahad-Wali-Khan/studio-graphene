@@ -1,0 +1,730 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 2148px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-31 {
+  background: #161615;
+  width: 1440px;
+  height: 748px;
+  position: absolute;
+  left: 0px;
+  top: 42px;
+}
+.rectangle {
+  opacity: 0.5;
+  width: 1440px;
+  height: 749px;
+  position: absolute;
+  left: 0px;
+  top: 41px;
+}
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-30 {
+  background: #f07e15;
+  width: 993px;
+  height: 354.3px;
+  position: absolute;
+  left: 447px;
+  top: 344.62px;
+}
+.star-3 {
+  position: absolute;
+  left: 1010px;
+  top: 129px;
+  overflow: visible;
+}
+.jessica-radanavong-ich-pbhfd-0-pw-unsplash {
+  width: 432px;
+  height: 654.95px;
+  position: absolute;
+  left: 899px;
+  top: 133.05px;
+}
+.rectangle-29 {
+  background: var(--pimarycolour, #f07e15);
+  opacity: 0.20000000298023224;
+  width: 993px;
+  height: 354.3px;
+  position: absolute;
+  left: 447px;
+  top: 344.62px;
+}
+.star-4 {
+  position: absolute;
+  left: 944px;
+  top: 620.97px;
+  overflow: visible;
+}
+.oregon-jacket {
+  color: #161615;
+  text-align: left;
+  font: 400 14px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1300px;
+  top: 614.9px;
+  width: 117px;
+  height: 16.2px;
+}
+._124 {
+  color: #161615;
+  text-align: left;
+  font: 400 14px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1300px;
+  top: 634.13px;
+  width: 31px;
+  height: 16.2px;
+}
+.line-23 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 976px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 665.51px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.zam-nungaray-acw-3-b-7-q-6-ys-0-unsplash {
+  width: 304px;
+  height: 322px;
+  position: absolute;
+  left: 682px;
+  top: 998px;
+}
+.philipp-arlt-nm-h-9-a-0-obon-8-unsplash {
+  width: 304px;
+  height: 322px;
+  position: absolute;
+  left: 1343px;
+  top: 998px;
+}
+.philipp-arlt-8-ey-b-rva-wt-y-unsplash {
+  width: 310px;
+  height: 322px;
+  position: absolute;
+  left: 346px;
+  top: 998px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco {
+  color: #ffffff;
+  text-align: left;
+  font: var(--h-1-title, 800 135px/102.6px "Syne", sans-serif);
+  position: absolute;
+  left: 115px;
+  top: 280px;
+  width: 689px;
+  height: 151px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco2 {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--h-2-title, 600 90px "Syne", sans-serif);
+  position: absolute;
+  left: 83px;
+  top: 860px;
+  width: 689px;
+  height: 151px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco3 {
+  color: #ffffff;
+  text-align: left;
+  font: var(--h-1-title, 800 135px/102.6px "Syne", sans-serif);
+  position: absolute;
+  left: 187px;
+  top: 505px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco4 {
+  text-align: left;
+  font: var(--h-1-title, 800 135px/102.6px "Syne", sans-serif);
+  position: absolute;
+  left: 424px;
+  top: 396px;
+  width: 710px;
+  height: 144px;
+}
+.apparel {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 91px;
+  top: 999px;
+}
+.accessories {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--subtitles, 600 26px "Syne", sans-serif);
+  position: absolute;
+  left: 91px;
+  top: 1043px;
+}
+.best-sellers {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 91px;
+  top: 1094px;
+}
+._50-off {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 91px;
+  top: 1138px;
+}
+.rectangle-27 {
+  background: #1a1a1a;
+  width: 1440px;
+  height: 42px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-28 {
+  background: var(--greyscale-1000, #000000);
+  width: 1455px;
+  height: 66px;
+  position: absolute;
+  left: -9px;
+  top: 2082px;
+}
+._18591063 {
+  width: 1440px;
+  height: 520px;
+  position: absolute;
+  left: 0px;
+  top: 1562px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 137px;
+  top: 115px;
+  width: 71px;
+  height: 28px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 314px;
+  top: 115px;
+  width: 70px;
+  height: 28px;
+}
+.copyright-2022-all-right-reserved-by-sg {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Poppins", sans-serif;
+  position: absolute;
+  left: 601px;
+  top: 2106px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 115px;
+  width: 118px;
+  height: 28px;
+}
+.bag-0 {
+  color: #ffffff;
+  text-align: left;
+  font: var(--bodytext-14, 400 14px "Work Sans", sans-serif);
+  position: absolute;
+  left: 1299px;
+  top: 70px;
+}
+.wishlist-0 {
+  color: #ffffff;
+  text-align: left;
+  font: var(--bodytext-14, 400 14px "Work Sans", sans-serif);
+  position: absolute;
+  left: 1200px;
+  top: 70px;
+}
+.shop-kart {
+  color: #ffffff;
+  text-align: left;
+  font: 200 40px "Poppins", sans-serif;
+  position: absolute;
+  left: 90px;
+  top: 41px;
+}
+.free-delivery {
+  color: #626262;
+  text-align: left;
+  font: 400 12px "Poppins", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 13px;
+}
+.return-policy {
+  color: #626262;
+  text-align: left;
+  font: 400 12px "Poppins", sans-serif;
+  position: absolute;
+  left: 222px;
+  top: 13px;
+  width: 109px;
+  height: 15px;
+}
+.login {
+  color: #626262;
+  text-align: left;
+  font: 400 10px "Poppins", sans-serif;
+  position: absolute;
+  left: 1164px;
+  top: 14px;
+}
+.follow-us {
+  color: #626262;
+  text-align: left;
+  font: 400 10px "Poppins", sans-serif;
+  position: absolute;
+  left: 1226px;
+  top: 14px;
+}
+.layer-156 {
+  position: absolute;
+  left: 90px;
+  top: 15px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 1287px;
+  top: 17px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 1303px;
+  top: 17px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 1323px;
+  top: 18px;
+  overflow: visible;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.group {
+  position: absolute;
+  left: 1342px;
+  top: 17px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 1342px;
+  top: 17px;
+  overflow: visible;
+}
+.line-11 {
+  border-style: solid;
+  border-color: #626262;
+  border-width: 1px 0 0 0;
+  width: 19px;
+  height: 0px;
+  position: absolute;
+  left: 208px;
+  top: 11px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.group-16 {
+  position: absolute;
+  left: 90px;
+  top: 87px;
+  overflow: visible;
+}
+.group-17 {
+  position: absolute;
+  left: 67px;
+  top: 954px;
+  overflow: visible;
+}
+.get-news-about-articles-and-updates-in-your-inbox {
+  color: var(--grey-scale-200, rgba(255, 255, 255, 0.5));
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 103px;
+  top: 1661px;
+  width: 337px;
+  height: 52px;
+}
+.newslleter {
+  color: var(--grey-scale-200, rgba(255, 255, 255, 0.5));
+  text-align: left;
+  font: var(--subtitles, 600 26px "Syne", sans-serif);
+  position: absolute;
+  left: 103px;
+  top: 1644px;
+  width: 385px;
+  height: 52px;
+}
+.name {
+  color: var(--grey-scale-200, rgba(255, 255, 255, 0.5));
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 630px;
+  top: 1644px;
+  width: 303px;
+  height: 30px;
+}
+.email {
+  color: var(--grey-scale-200, rgba(255, 255, 255, 0.5));
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 630px;
+  top: 1709px;
+  width: 303px;
+  height: 30px;
+}
+.message {
+  color: var(--grey-scale-200, rgba(255, 255, 255, 0.5));
+  text-align: left;
+  font: var(--bodytext-18, 400 18px "Work Sans", sans-serif);
+  position: absolute;
+  left: 630px;
+  top: 1778px;
+  width: 303px;
+  height: 30px;
+}
+.arrow-1 {
+  position: absolute;
+  left: 1281px;
+  top: 925px;
+  transform: translate(-0.5px, -2.89px);
+  overflow: visible;
+}
+.arrow-2 {
+  position: absolute;
+  left: 1233px;
+  top: 925px;
+  transform: translate(-55px, -2.89px);
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco5 {
+  color: var(--greyscale-000, #ffffff);
+  text-align: left;
+  font: var(--h-1-title, 800 135px/102.6px "Syne", sans-serif);
+  position: absolute;
+  left: 90px;
+  top: 1846px;
+  width: 1159px;
+  height: 236px;
+}
+.line-19 {
+  border-style: solid;
+  border-color: var(--greyscale-000, #ffffff);
+  border-width: 1px 0 0 0;
+  width: 558px;
+  height: 0px;
+  position: absolute;
+  left: 616px;
+  top: 1674px;
+}
+.line-20 {
+  border-style: solid;
+  border-color: var(--greyscale-000, #ffffff);
+  border-width: 1px 0 0 0;
+  width: 558px;
+  height: 0px;
+  position: absolute;
+  left: 616px;
+  top: 1739px;
+}
+.line-21 {
+  border-style: solid;
+  border-color: var(--greyscale-000, #ffffff);
+  border-width: 1px 0 0 0;
+  width: 558px;
+  height: 0px;
+  position: absolute;
+  left: 616px;
+  top: 1808px;
+}
+.button {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--pimarycolour, #f07e15);
+  border-width: 2px;
+  width: 181px;
+  height: 181px;
+  position: absolute;
+  left: 1162px;
+  top: 1822px;
+}
+.send {
+  color: var(--pimarycolour, #f07e15);
+  text-align: left;
+  font: 400 26px/16px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1217px;
+  top: 1905px;
+}
+.group-19 {
+  position: absolute;
+  left: 611px;
+  top: 1275px;
+  overflow: visible;
+}
+.secondary-button {
+  position: absolute;
+  left: 941px;
+  top: 1275px;
+  overflow: visible;
+}
+.secondary-button2 {
+  position: absolute;
+  left: 1272px;
+  top: 1275px;
+  overflow: visible;
+}
+.malicki-m-beser-pk-mvkg-7-vn-uo-unsplash {
+  width: 305px;
+  height: 322px;
+  position: absolute;
+  left: 1012px;
+  top: 998px;
+}
+.secondary-button3 {
+  position: absolute;
+  left: 1272px;
+  top: 1275px;
+  overflow: visible;
+}
+.frame-11197 {
+  border-style: solid;
+  border-color: var(--greyscale-000, #ffffff);
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 115px;
+  top: 696px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: undefined;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.see-more {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.vector13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.line-16 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.dropdown {
+  border-style: solid;
+  border-color: var(--greyscale-000, #ffffff);
+  border-width: 1px;
+  width: 159px;
+  height: 123px;
+  position: absolute;
+  left: 490px;
+  top: 115px;
+}
+.dopdown {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 159px;
+  height: 28px;
+}
+.product-1 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 14px "Work Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+  width: 129px;
+  height: 28px;
+}
+.product-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 14px "Work Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 51px;
+  width: 129px;
+  height: 28px;
+}
+.product-3 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 14px "Work Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 73px;
+  width: 129px;
+  height: 28px;
+}
+.product-4 {
+  color: #ffffff;
+  text-align: left;
+  font: 300 14px "Work Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 95px;
+  width: 129px;
+  height: 28px;
+}
+.line-34 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 139px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 23px;
+}
+.text-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 346px;
+  top: 1332px;
+}
+.frame-11194 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 310px;
+  position: relative;
+}
+.florida-jacket {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--subtitles, 600 26px "Syne", sans-serif);
+  position: relative;
+  width: 258px;
+  height: 30px;
+}
+.suffered-alteration-in-some-form-bysuffalterattion-in-some-forme-byinjected-humor-or-randomised {
+  color: var(--greyscale-400, rgba(22, 22, 21, 0.5));
+  text-align: left;
+  font: var(--bodytext-14, 400 14px "Work Sans", sans-serif);
+  position: relative;
+  width: 303px;
+  height: 49px;
+}
+._100 {
+  color: var(--greyscale-1000, #000000);
+  text-align: left;
+  font: var(--subtitles, 600 26px "Syne", sans-serif);
+  position: relative;
+  width: 258px;
+  height: 30px;
+}
+.text-field2 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 682px;
+  top: 1332px;
+}
+.text-field3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1012px;
+  top: 1332px;
+}
+.text-field4 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1343px;
+  top: 1332px;
+}

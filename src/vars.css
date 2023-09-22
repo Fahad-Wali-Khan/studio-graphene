@@ -1,0 +1,19 @@
+/* Figma Styles of your File */:root {
+  /* Colors */
+  --pimarycolour: #f07e15;
+  --greyscale-1000: #000000;
+  --greyscale-400: rgba(22, 22, 21, 0.50);
+  --greyscale-000: #ffffff;
+  --grey-scale-200: rgba(255, 255, 255, 0.50);
+
+  /* Fonts */
+  --h-1-title: 800 135px/102.6px 'Syne', sans-serif;
+  --h-2-title: 600 90px 'Syne', sans-serif;
+  --subtitles: 600 26px 'Syne', sans-serif;
+  --bodytext-18: 400 18px 'Work Sans', sans-serif;
+  --bodytext-14: 400 14px 'Work Sans', sans-serif;
+
+  /* Effects */
+
+}
+
